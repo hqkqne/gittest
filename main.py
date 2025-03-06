@@ -16,3 +16,5 @@ def random_gen_znak():
 
 def rnd_gen_level():
     source = []
+
+#proverka
